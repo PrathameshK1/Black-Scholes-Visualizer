@@ -23,7 +23,7 @@ An interactive app to compute and visualize European option prices and Greeks us
 ## Installation
 
 ```bash
-pip install streamlit numpy pandas scipy plotly matplotlib seaborn
+pip install -r requirements.txt
 ```
 
 ## Usage
